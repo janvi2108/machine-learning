@@ -1,4 +1,4 @@
 # machine-learning
 all machine learning related stuff
 
-all mdels etc.
+all models etc.
